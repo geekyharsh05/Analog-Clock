@@ -41,7 +41,7 @@ To run the Analog Clock project locally, follow these steps:
 
 ## :clapper: Demo
 
-You can see a live demo of the Analog Clock project [here](https://example.com/analog-clock).
+You can see a live demo of the Analog Clock project [here](https://analogclockhp.netlify.app/).
 
 ## :handshake: Contributing
 
